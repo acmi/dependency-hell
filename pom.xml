@@ -11,7 +11,6 @@
     <properties>
         <spring-boot.version>2.5.4</spring-boot.version>
         <springfox.version>3.0.0</springfox.version>
-        <slf4j.verson>1.7.32</slf4j.verson>
     </properties>
 
     <dependencies>
